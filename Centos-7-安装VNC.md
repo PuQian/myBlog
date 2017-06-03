@@ -80,6 +80,8 @@ See "systemctl status vncserver@:1.service" and "journalctl -xe" for details.
 # systemctl start vncserver@:1.service
 ```
 
+`netstat -lp|grep -i vnc` 查看 vnc 在 linux 服务器上的端口号
+
 <br/>
 
 参考资料：[binhu的博客](https://my.oschina.net/huhaoren/blog/497394?p={{totalPage}}) | [yum和apt-get的区别](http://www.centoscn.com/CentOS/Intermediate/2014/0508/2932.html)

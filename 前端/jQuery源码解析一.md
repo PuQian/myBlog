@@ -1,5 +1,5 @@
 ---
-title: 【 jQuery 】源码解析一
+title: 【 jQuery 】源码解析
 date: 2016-03-20 22:02:56
 tags: jQuery
 ---

@@ -3,7 +3,6 @@ title: 【 jQuery 】方法汇总
 date: 2016-03-23 17:27:07
 tags: jQuery
 ---
-
 # jQuery 简介
 ## 安装
 ### 从 CDN 中载入 jQuery
@@ -124,8 +123,4 @@ $("#p1").css("color","red").slideUp(2000).slideDown(2000);
 ### jQuery 捕获
 
 获得内容：`text()`、`html()`、`val()`
-获取属性：`attr()`
-
-<br/>
-
-### jQeury 设置
+获取属性：`attr()` 

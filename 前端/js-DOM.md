@@ -144,5 +144,3 @@ for(var i = 0; i < div.classList.length; i++){
 
 ### jQuery的html()与innerHTML的区别？
 jQuery的.html()会调用.innerHTML来操作，但同时也会catch异常，然后用.empty(), .append()来重新操作。 这是因为IE8中有些元素(比如input等)的.innerHTML是只读的。
-
-![innerHTML区别](/img/js/innerHTML.png)
