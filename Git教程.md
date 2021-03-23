@@ -1,9 +1,4 @@
----
-title: 【 Git 】Git教程
-date: 2016-01-12 22:42:53
-categories: git
-tags: Git
----
+
 ### 创建版本库
 ```
 pwd                        显示当前目录
